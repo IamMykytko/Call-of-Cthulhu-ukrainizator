@@ -81,7 +81,7 @@ _Де скачать pak з перекладами?_
 Ми прикріпимо декілька скріншотів, щоб ви побачили як виглядає українізатор:
 ![alt text](src/items1.jpg)
 ![alt text](src/main-menu1.jpg)
-![alt text](src/main-menu2,jpg)
+![alt text](src/main-menu2.jpg)
 
 <!--![alt text](src/*)
 ![alt text](src/*)
